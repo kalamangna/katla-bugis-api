@@ -1,6 +1,6 @@
 {
-  "data": {
-    "firstRow": [
+  "data": [
+    [
       { "key": "Q" },
       { "key": "W" },
       { "key": "E" },
@@ -12,7 +12,7 @@
       { "key": "O" },
       { "key": "P" }
     ],
-    "secondRow": [
+    [
       { "key": "A" },
       { "key": "S" },
       { "key": "D" },
@@ -23,7 +23,7 @@
       { "key": "K" },
       { "key": "L" }
     ],
-    "thirdRow": [
+    [
       { "key": "Backspace" },
       { "key": "Z" },
       { "key": "X" },
@@ -34,5 +34,5 @@
       { "key": "M" },
       { "key": "Enter" }
     ]
-  }
+  ]
 }
