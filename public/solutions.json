@@ -2,6 +2,8 @@
   "data": [
     { "id": 1, "word": "jappa" },
     { "id": 2, "word": "halua" },
-    { "id": 3, "word": "getta" }
+    { "id": 3, "word": "getta" },
+    { "id": 4, "word": "kasya" },
+    { "id": 5, "word": "menre" }
   ]
 }
